@@ -8,7 +8,7 @@ with open("chartink_bull_prime_p1_payload.json") as f:
     payload = json.load(f)
 
 # Replace this with your actual Make.com webhook URL
-webhook_url = "https://hook.us.make.com/YOUR_WEBHOOK_URL"
+webhook_url = "https://hook.us2.make.com/1o55lghyu7zhsp8bbxejcysqbrwz77xc"
 
 seen = set()
 
